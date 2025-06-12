@@ -1,2 +1,6 @@
-var p1 = window.document.querySelector('section#atalaia')
-p1.style.color = "red"
+/*var a = document.getElementsByTagName("div")[0]
+console.log(a)
+var a = document.getElementsByName("TestandoBy")[0]
+a.innerText = "Samuel"
+var b = document.querySelector("section#atalaia")
+b.style.background ="pink" */
